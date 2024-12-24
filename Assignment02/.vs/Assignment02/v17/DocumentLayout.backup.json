@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85567074-D3CA-44E5-89C6-A7ACC576715F}|Assignment02.csproj|c:\\users\\metro\\desktop\\project\\oop\\assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85567074-D3CA-44E5-89C6-A7ACC576715F}|Assignment02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85567074-D3CA-44E5-89C6-A7ACC576715F}|Assignment02.csproj|c:\\users\\metro\\desktop\\project\\oop\\assignment02\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85567074-D3CA-44E5-89C6-A7ACC576715F}|Assignment02.csproj|solutionrelative:employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85567074-D3CA-44E5-89C6-A7ACC576715F}|Assignment02.csproj|c:\\users\\metro\\desktop\\project\\oop\\assignment02\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85567074-D3CA-44E5-89C6-A7ACC576715F}|Assignment02.csproj|solutionrelative:hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\HiringDate.cs",
+              "RelativeDocumentMoniker": "HiringDate.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\HiringDate.cs",
+              "RelativeToolTip": "HiringDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:16:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\Employees.cs",
+              "RelativeDocumentMoniker": "Employees.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\Employees.cs",
+              "RelativeToolTip": "Employees.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:13:33.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Assignment02\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:12:30.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

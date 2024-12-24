@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|c:\\users\\metro\\desktop\\project\\oop\\session02\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|c:\\users\\metro\\desktop\\project\\oop\\session02\\demo\\polymorphism\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|solutionrelative:polymorphism\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|c:\\users\\metro\\desktop\\project\\oop\\session02\\demo\\polymorphism\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|solutionrelative:polymorphism\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|c:\\users\\metro\\desktop\\project\\oop\\session02\\demo\\session 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|solutionrelative:session 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|c:\\users\\metro\\desktop\\project\\oop\\session02\\demo\\inheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|solutionrelative:inheritance\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|c:\\users\\metro\\desktop\\project\\oop\\session02\\demo\\inheritance\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5773C-9034-4127-8CBE-C50FE26485C9}|Session 2.csproj|solutionrelative:inheritance\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeB.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Polymorphism\\TypeB.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\TypeB.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Polymorphism\\TypeB.cs",
+              "RelativeToolTip": "Polymorphism\\TypeB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:27:26.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Polymorphism\\TypeA.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\TypeA.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Polymorphism\\TypeA.cs",
+              "RelativeToolTip": "Polymorphism\\TypeA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:23:39.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Session 2.csproj",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Session 2.csproj",
+              "RelativeDocumentMoniker": "Session 2.csproj",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Session 2.csproj",
+              "RelativeToolTip": "Session 2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T17:40:07.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Inheritance\\Child.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Child.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Inheritance\\Child.cs",
+              "RelativeToolTip": "Inheritance\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:20:30.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Inheritance\\Parent.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Parent.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Inheritance\\Parent.cs",
+              "RelativeToolTip": "Inheritance\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:15:42.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\OOP\\Session02\\demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:52:52.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
